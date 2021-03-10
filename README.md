@@ -75,19 +75,13 @@
 
 ## 💡Tech Blog
 
+- [네이버 기술블로그](https://d2.naver.com/home)
 - [카카오 기술블로그](https://tech.kakao.com/blog/)
-
 - [쿠팡 기술블로그](https://medium.com/coupang-tech/technote/home)
-
 - [마켓컬리 기술블로그](https://helloworld.kurly.com/)
-
+- [VCNC 기술블로그](http://engineering.vcnc.co.kr/)
 - [우아한형제들 기술블로그](https://woowabros.github.io/)
-
 - [하이퍼커넥트 기술블로그](https://hyperconnect.github.io/)
-
 - [뱅크샐러드 기술블로그](https://blog.banksalad.com/)
-
 - [당근마켓 기술블로그](https://medium.com/daangn)
-
-  
-
+- [드라마앤컴퍼니 기술블로그](https://blog.dramancompany.com/)
