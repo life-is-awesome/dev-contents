@@ -50,25 +50,41 @@
 
 ### 8. Etc
 
-- 
+-  
 
+<br>
 
-## 📄 Employment Infomation
-
-- 
-
-## 📚 Book List
+## 📄 Employment Information
 
 - 
 
-## 🖥 Online Course Site
+---
 
-- 
+## 📚Book List
 
-## 🙋🏻‍♂️ Facebook Community
+- [하루 3분 네트워크 교실](http://m.yes24.com/goods/detail/30670329)
+- [누구나 자료구조와 알고리즘](http://www.yes24.com/Product/Goods/61941073)
+- [그림으로 공부하는 it 인프라 구조](http://www.yes24.com/Product/Goods/95800974?pid=123487&cosemkid=go16074119324467461&gclid=Cj0KCQiAnKeCBhDPARIsAFDTLTJCG78CcxQ7dbSX6ODNno0pOjA7z6IhrFqFzJKW07DRp1PjEKi6vVMaAgFuEALw_wcB)
+- [프로그래머의 길, 멘토에게 묻다](http://www.yes24.com/Product/Goods/4045732)
+- [코드로 배우는 스프링 웹 프로젝트](http://www.yes24.com/Product/Goods/64340061)
+- [인사이드 자바스크립트](http://www.yes24.com/Product/Goods/37157296)
+- [테스트 주도 개발 TDD 실천법과 도구](http://www.yes24.com/Product/Goods/3908398)
+- [커리어 스킬 :완벽한 개발자 인생 로드맵](http://www.yes24.com/Product/Goods/71829578)
+- [Hello Coding 그림으로 개념을 이해하는 알고리즘](http://www.yes24.com/Product/Goods/37885448)
+- [리팩토링](https://www.hanbit.co.kr/store/books/look.php?p_code=B9939119873)
+- [클린코드](http://www.yes24.com/Product/Goods/11681152)
+- [자바 ORM 표준 JPA 프로그래밍](http://www.yes24.com/Product/Goods/19040233?OzSrank=1)
 
-- 
+---
 
+## 🖥Online Course Site
+
+- [Udemy](https://www.udemy.com/)
+- [Inflearn](https://www.inflearn.com/)
+- [Nomad Coders](https://nomadcoders.co/)
+- [Dream Coding](https://academy.dream-coding.com/)
+
+---
 ## 💡 Tech Blog
 
 - [네이버 기술블로그](https://d2.naver.com/home)
