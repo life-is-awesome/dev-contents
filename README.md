@@ -2,9 +2,7 @@
 
 > 좋은 개발자로 성장하기 위해 유익한 개발 콘텐츠를 모아 서로 공유하고 소비하는 저장소입니다.
 
-<br>
-
-## 🚦Rule
+## 🚦 Rule
 
 **규칙**
 
@@ -19,13 +17,12 @@
   - **README.md** 에 `No. 카테고리명` 으로 추가
   - 추가된 **Category**에 공유할 링크 및 내용 업데이트
 
-<br>
-
-## 📌Category
+## 📌 Category
 
 ### 1. Language
 
-- 
+- JavaScript
+  - [Poiemaweb](https://poiemaweb.com/)
 
 ### 2. DevOps
 
@@ -47,7 +44,7 @@
 
 - 
 
-### 7. Story(취업 준비, 회고, 인터뷰)
+### 7. Story (취업 준비, 회고, 인터뷰)
 
 - 
 
@@ -55,25 +52,24 @@
 
 - 
 
-<br>
 
-## 📄Employment Infomation
-
-- 
-
-## 📚Book List
+## 📄 Employment Infomation
 
 - 
 
-## 🖥Online Course Site
+## 📚 Book List
 
 - 
 
-## 🙋🏻‍♂️Facebook Community
+## 🖥 Online Course Site
 
 - 
 
-## 💡Tech Blog
+## 🙋🏻‍♂️ Facebook Community
+
+- 
+
+## 💡 Tech Blog
 
 - [네이버 기술블로그](https://d2.naver.com/home)
 - [카카오 기술블로그](https://tech.kakao.com/blog/)
