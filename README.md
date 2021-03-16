@@ -21,12 +21,11 @@
 
 ### 1. Language
 
-- JavaScript
-  - [Poiemaweb](https://poiemaweb.com/)
+- [[JavaScript] - Poiemaweb](https://poiemaweb.com/)
 
 ### 2. DevOps
 
-- 
+- [개발자를 위한 인프라 기초 총정리](https://futurecreator.github.io/2018/11/09/it-infrastructure-basics/?fbclid=IwAR1pl1iuQp6O4L55GBRb6I_bkLsB_P3TaVtOOMnAGIafv1WauzPY4QdMldw)
 
 ### 3. Back-End
 
@@ -50,13 +49,13 @@
 
 ### 8. Etc
 
--  
+-  [cheatsheets](https://github.com/rstacruz/cheatsheets)
 
 <br>
 
 ## 📄 Employment Information
 
-- 
+- [주니어 개발자를 위한 취업정보](https://github.com/jojoldu/junior-recruit-scheduler)
 
 ---
 
@@ -74,6 +73,15 @@
 - [리팩토링](https://www.hanbit.co.kr/store/books/look.php?p_code=B9939119873)
 - [클린코드](http://www.yes24.com/Product/Goods/11681152)
 - [자바 ORM 표준 JPA 프로그래밍](http://www.yes24.com/Product/Goods/19040233?OzSrank=1)
+- [파이썬을 이용한 컴퓨터 과학 입문](http://www.yes24.com/Product/Goods/85111306)
+- [비전공자를 위한 이해할 수 있는 IT 지식](http://www.yes24.com/Product/Goods/91165789)
+- [따라하며 배우는 AWS 네트워크 입문](http://www.yes24.com/Product/Goods/93887402?fbclid=IwAR10RGh2_xGz_njsakHxZaqagEktCCWSUO21bVSxYUMzJRYebYvBjXhbiPs)
+- [http 완벽가이드](http://m.yes24.com/goods/detail/15381085)
+- [SQL 레벨업](http://m.yes24.com/goods/detail/24089836)
+- [알고리즘 문제 해결 전략](http://www.yes24.com/Product/Goods/8006522)
+- [SQL 첫걸음 : 하루 30분 36강으로 배우는 완전 초보의 SQL 따라잡기](https://www.hanbit.co.kr/store/books/look.php?p_code=B1374950226)
+- [그림으로 배우는 HTTP & Network](http://www.yes24.com/Product/Goods/15894097)
+- [IT 개발자의 영어 필살기](http://www.yes24.com/Product/Goods/85385648)
 
 ---
 
@@ -83,6 +91,7 @@
 - [Inflearn](https://www.inflearn.com/)
 - [Nomad Coders](https://nomadcoders.co/)
 - [Dream Coding](https://academy.dream-coding.com/)
+- [생활코딩](https://opentutorials.org/course/1)
 
 ---
 ## 💡 Tech Blog
