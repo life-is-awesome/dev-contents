@@ -43,13 +43,20 @@
 
 - 
 
-### 7. Story (취업 준비, 회고, 인터뷰)
+### 7. Web
 
-- 
+- [웹의 동작 방식](https://developer.mozilla.org/ko/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
 
-### 8. Etc
+### 8. Story (취업 준비, 회고, 인터뷰)
 
--  [cheatsheets](https://github.com/rstacruz/cheatsheets)
+- [구직자에게 글쓰기는 왜 중요한가?](https://medium.com/code-states/%EA%B5%AC%EC%A7%81%EC%9E%90%EC%97%90%EA%B2%8C-%EA%B8%80%EC%93%B0%EA%B8%B0%EB%8A%94-%EC%99%9C-%EC%A4%91%EC%9A%94%ED%95%9C%EA%B0%80-b64d3c1d031b)
+
+### 9. Etc
+
+-  [Cheatsheets](https://github.com/rstacruz/cheatsheets)
+-  [코딩을 배울 때 했던 실수들. 그리고 그 실수들을 피하는법](https://medium.com/code-states/%EC%BD%94%EB%94%A9%EC%9D%84-%EB%B0%B0%EC%9A%B8-%EB%95%8C-%ED%96%88%EB%8D%98-%EC%8B%A4%EC%88%98%EB%93%A4-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EA%B7%B8-%EC%8B%A4%EC%88%98%EB%93%A4%EC%9D%84-%ED%94%BC%ED%95%98%EB%8A%94-%EB%B2%95-3497a80217ff)
+-  [서버가 API를 뭐..? 개발자의 외계어 쉽게 이해하기](https://brunch.co.kr/@businessinsight/65?fbclid=IwAR1AGPvcIAoaAIkUqfv6Gkc0PCRzYNx0w5b4nyB8sMKV8epStCtu-O_PAtM)
+-  [개발직군이 놓쳐서는 안될 10가지](https://www.slideshare.net/visualkhh/10-developer-attitude?from_m_app=ios&fbclid=IwAR3lK0IzFMm8oama4R9PO87OmnyMgiX8kSORj_jZk0cKkM_tWX1FrUwAj2E)
 
 <br>
 
@@ -59,29 +66,31 @@
 
 ---
 
-## 📚Book List
+## 📚Books
 
-- [하루 3분 네트워크 교실](http://m.yes24.com/goods/detail/30670329)
-- [누구나 자료구조와 알고리즘](http://www.yes24.com/Product/Goods/61941073)
-- [그림으로 공부하는 it 인프라 구조](http://www.yes24.com/Product/Goods/95800974?pid=123487&cosemkid=go16074119324467461&gclid=Cj0KCQiAnKeCBhDPARIsAFDTLTJCG78CcxQ7dbSX6ODNno0pOjA7z6IhrFqFzJKW07DRp1PjEKi6vVMaAgFuEALw_wcB)
-- [프로그래머의 길, 멘토에게 묻다](http://www.yes24.com/Product/Goods/4045732)
-- [코드로 배우는 스프링 웹 프로젝트](http://www.yes24.com/Product/Goods/64340061)
-- [인사이드 자바스크립트](http://www.yes24.com/Product/Goods/37157296)
-- [테스트 주도 개발 TDD 실천법과 도구](http://www.yes24.com/Product/Goods/3908398)
-- [커리어 스킬 :완벽한 개발자 인생 로드맵](http://www.yes24.com/Product/Goods/71829578)
-- [Hello Coding 그림으로 개념을 이해하는 알고리즘](http://www.yes24.com/Product/Goods/37885448)
-- [리팩토링](https://www.hanbit.co.kr/store/books/look.php?p_code=B9939119873)
-- [클린코드](http://www.yes24.com/Product/Goods/11681152)
-- [자바 ORM 표준 JPA 프로그래밍](http://www.yes24.com/Product/Goods/19040233?OzSrank=1)
-- [파이썬을 이용한 컴퓨터 과학 입문](http://www.yes24.com/Product/Goods/85111306)
-- [비전공자를 위한 이해할 수 있는 IT 지식](http://www.yes24.com/Product/Goods/91165789)
-- [따라하며 배우는 AWS 네트워크 입문](http://www.yes24.com/Product/Goods/93887402?fbclid=IwAR10RGh2_xGz_njsakHxZaqagEktCCWSUO21bVSxYUMzJRYebYvBjXhbiPs)
-- [http 완벽가이드](http://m.yes24.com/goods/detail/15381085)
-- [SQL 레벨업](http://m.yes24.com/goods/detail/24089836)
-- [알고리즘 문제 해결 전략](http://www.yes24.com/Product/Goods/8006522)
-- [SQL 첫걸음 : 하루 30분 36강으로 배우는 완전 초보의 SQL 따라잡기](https://www.hanbit.co.kr/store/books/look.php?p_code=B1374950226)
-- [그림으로 배우는 HTTP & Network](http://www.yes24.com/Product/Goods/15894097)
-- [IT 개발자의 영어 필살기](http://www.yes24.com/Product/Goods/85385648)
+- [하루 3분 네트워크 교실](https://book.naver.com/bookdb/book_detail.nhn?bid=10976388)
+- [누구나 자료구조와 알고리즘](https://book.naver.com/bookdb/book_detail.nhn?bid=13746640)
+- [그림으로 공부하는 it 인프라 구조](https://book.naver.com/bookdb/book_detail.nhn?bid=17527140)
+- [프로그래머의 길, 멘토에게 묻다](https://book.naver.com/bookdb/book_detail.nhn?bid=6332442)
+- [코드로 배우는 스프링 웹 프로젝트](https://book.naver.com/bookdb/book_detail.nhn?bid=17597624)
+- [인사이드 자바스크립트](https://book.naver.com/bookdb/book_detail.nhn?bid=7400243)
+- [테스트 주도 개발 TDD 실천법과 도구](https://book.naver.com/bookdb/book_detail.nhn?bid=6291557)
+- [커리어 스킬 :완벽한 개발자 인생 로드맵](https://book.naver.com/bookdb/book_detail.nhn?bid=14722396)
+- [Hello Coding 그림으로 개념을 이해하는 알고리즘](https://book.naver.com/bookdb/book_detail.nhn?bid=11823284)
+- [리팩토링](https://book.naver.com/bookdb/book_detail.nhn?bid=16311029)
+- [클린코드](https://book.naver.com/bookdb/book_detail.nhn?bid=7390287)
+- [자바 ORM 표준 JPA 프로그래밍](https://book.naver.com/bookdb/book_detail.nhn?bid=9252528)
+- [파이썬을 이용한 컴퓨터 과학 입문](https://book.naver.com/bookdb/book_detail.nhn?bid=15974840)
+- [비전공자를 위한 이해할 수 있는 IT 지식](https://book.naver.com/bookdb/book_detail.nhn?bid=16415934)
+- [따라하며 배우는 AWS 네트워크 입문](https://book.naver.com/bookdb/book_detail.nhn?bid=16850381)
+- [http 완벽가이드](https://book.naver.com/bookdb/book_detail.nhn?bid=8509980)
+- [SQL 레벨업](https://book.naver.com/bookdb/book_detail.nhn?bid=10160776)
+- [알고리즘 문제 해결 전략](https://book.naver.com/bookdb/book_detail.nhn?bid=7058764)
+- [SQL 첫걸음 : 하루 30분 36강으로 배우는 완전 초보의 SQL 따라잡기](https://book.naver.com/bookdb/book_detail.nhn?bid=9738902)
+- [그림으로 배우는 HTTP & Network](https://book.naver.com/bookdb/book_detail.nhn?bid=8657832)
+- [IT 개발자의 영어 필살기](https://book.naver.com/bookdb/book_detail.nhn?bid=15986525)
+- [배워서 바로 쓰는 14가지 AWS 구축 패턴](https://book.naver.com/bookdb/book_detail.nhn?bid=16261278)
+- [테스트 주도 개발](https://book.naver.com/bookdb/book_detail.nhn?bid=7443642)
 
 ---
 
@@ -89,20 +98,48 @@
 
 - [Udemy](https://www.udemy.com/)
 - [Inflearn](https://www.inflearn.com/)
+- [Coursera](https://www.coursera.org/)
+- [Udacity](https://www.udacity.com/)
 - [Nomad Coders](https://nomadcoders.co/)
 - [Dream Coding](https://academy.dream-coding.com/)
 - [생활코딩](https://opentutorials.org/course/1)
+- [TCPSchool](http://tcpschool.com/)
+- [Edwith](https://www.edwith.org/)
+- [Elice Academy](https://academy.elice.io/explore)
 
 ---
 ## 💡 Tech Blog
 
 - [네이버 기술블로그](https://d2.naver.com/home)
+
 - [카카오 기술블로그](https://tech.kakao.com/blog/)
+
 - [쿠팡 기술블로그](https://medium.com/coupang-tech/technote/home)
+
 - [마켓컬리 기술블로그](https://helloworld.kurly.com/)
+
 - [VCNC 기술블로그](http://engineering.vcnc.co.kr/)
+
 - [우아한형제들 기술블로그](https://woowabros.github.io/)
+
 - [하이퍼커넥트 기술블로그](https://hyperconnect.github.io/)
+
 - [뱅크샐러드 기술블로그](https://blog.banksalad.com/)
+
 - [당근마켓 기술블로그](https://medium.com/daangn)
+
 - [드라마앤컴퍼니 기술블로그](https://blog.dramancompany.com/)
+
+- [요기요 기술블로그](https://medium.com/deliverytechkorea)
+
+- [뤼이드 기술블로그](https://riiidtechblog.medium.com/)
+
+- [원티드 기술블로그](https://medium.com/wantedjobs)
+
+- [스포카 기술블로그](https://spoqa.github.io/)
+
+- [마이리얼트립 기술블로그](https://medium.com/myrealtrip-product)
+
+- [왓챠 기술블로그](https://medium.com/watcha)
+
+  
