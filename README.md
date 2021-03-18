@@ -33,7 +33,8 @@
 
 ### 4. Front-End
 
-- 
+- [React Hook Form](https://react-hook-form.com/kr/)
+- [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
 
 ### 5. App (iOS & Android)
 
@@ -57,6 +58,8 @@
 -  [코딩을 배울 때 했던 실수들. 그리고 그 실수들을 피하는법](https://medium.com/code-states/%EC%BD%94%EB%94%A9%EC%9D%84-%EB%B0%B0%EC%9A%B8-%EB%95%8C-%ED%96%88%EB%8D%98-%EC%8B%A4%EC%88%98%EB%93%A4-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EA%B7%B8-%EC%8B%A4%EC%88%98%EB%93%A4%EC%9D%84-%ED%94%BC%ED%95%98%EB%8A%94-%EB%B2%95-3497a80217ff)
 -  [서버가 API를 뭐..? 개발자의 외계어 쉽게 이해하기](https://brunch.co.kr/@businessinsight/65?fbclid=IwAR1AGPvcIAoaAIkUqfv6Gkc0PCRzYNx0w5b4nyB8sMKV8epStCtu-O_PAtM)
 -  [개발직군이 놓쳐서는 안될 10가지](https://www.slideshare.net/visualkhh/10-developer-attitude?from_m_app=ios&fbclid=IwAR3lK0IzFMm8oama4R9PO87OmnyMgiX8kSORj_jZk0cKkM_tWX1FrUwAj2E)
+-  [초보 개발자를 위한 IT 영단어 정리](https://brunch.co.kr/@hopeless/8)
+-  [개발자 한명이 백명의 일을 할 수 있나?](http://www.ikwisdom.com/2021/03/100.html?m=1)
 
 <br>
 
