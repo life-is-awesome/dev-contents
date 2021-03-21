@@ -60,6 +60,7 @@
 -  [개발직군이 놓쳐서는 안될 10가지](https://www.slideshare.net/visualkhh/10-developer-attitude?from_m_app=ios&fbclid=IwAR3lK0IzFMm8oama4R9PO87OmnyMgiX8kSORj_jZk0cKkM_tWX1FrUwAj2E)
 -  [초보 개발자를 위한 IT 영단어 정리](https://brunch.co.kr/@hopeless/8)
 -  [개발자 한명이 백명의 일을 할 수 있나?](http://www.ikwisdom.com/2021/03/100.html?m=1)
+-  [개발자의 평생공부](https://zdnet.co.kr/view/?no=20170616090644)
 
 <br>
 
